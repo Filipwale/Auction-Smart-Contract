@@ -1,2 +1,2 @@
-# auction
+# Auction Smart Contract Project
  
